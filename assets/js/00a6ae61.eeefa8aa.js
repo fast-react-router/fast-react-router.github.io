@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfast_router_docs=self.webpackChunkfast_router_docs||[]).push([[207],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
