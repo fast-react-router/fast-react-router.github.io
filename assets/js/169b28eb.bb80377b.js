@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfast_router_docs=self.webpackChunkfast_router_docs||[]).push([[920],{4911:t=>{t.exports=JSON.parse('{"title":"Tutorial","description":"5 minutes to learn fast-react-router.","slug":"/category/tutorial","permalink":"/docs/category/tutorial","navigation":{"next":{"title":"Link","permalink":"/docs/fast-react-router/Link"}}}')}}]);
